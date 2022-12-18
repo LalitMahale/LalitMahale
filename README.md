@@ -1,5 +1,5 @@
 
-![logo](https://phantomexpansion.unidadeditorial.es/17f3e05a560900c16426dbc24daa99e3/crop/82x0/710x419/resize/828/f/jpg/assets/multimedia/imagenes/2021/01/27/16117467361713.jpg)
+![logo](https://github.com/LalitMahale/LalitMahale/blob/main/OIP.jpg)
 <h1 align="center">Hi 👋, I'm Lalit Mahale</h1>
 <h3 align="center">A passionate Artificial Intelligence and I am from India</h3>
 <img align = "right" alt = "coding" width="400" src="https://cdn.dribbble.com/users/279765/screenshots/1906733/selfportrait.gif">
