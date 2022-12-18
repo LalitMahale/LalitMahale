@@ -1,8 +1,8 @@
+
+![logo](https://phantomexpansion.unidadeditorial.es/17f3e05a560900c16426dbc24daa99e3/crop/82x0/710x419/resize/828/f/jpg/assets/multimedia/imagenes/2021/01/27/16117467361713.jpg)
 <h1 align="center">Hi 👋, I'm Lalit Mahale</h1>
 <h3 align="center">A passionate Artificial Intelligence and I am from India</h3>
 <img align = "right" alt = "coding" width="400" src="https://cdn.dribbble.com/users/279765/screenshots/1906733/selfportrait.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitmahale&label=Profile%20views&color=0e75b6&style=flat" alt="lalitmahale" /> </p>
 
 - 🌱 I’m currently learning **R Language**
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Computer Vision, Natural Langauge Processing (NLP)**
 
-- 📫 How to reach me **lalitbmahale121@gmail.com**
+- 📫 How to reach me **<a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=lalitbmahale121@gmail.com&tf=1"> lalitbmahale@gmail.com</a>**
 
 - Fun fact **I am funy**
 
@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitmahale&show_icons=true&locale=en&layout=compact" alt="lalitmahale" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitmahale&show_icons=true&locale=en" alt="lalitmahale" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitmahale&show_icons=true&locale=en" alt="lalitmahale" /></p>ahale&show_icons=true&locale=en" alt="lalitmahale" /></p>
 
 # Contribution
 ![snake gif](https://github.com/LalitMahale/LalitMahale/blob/output/github-contribution-grid-snake.gif)
