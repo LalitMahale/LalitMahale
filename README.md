@@ -1,5 +1,5 @@
 
-![logo](https://github.com/LalitMahale/LalitMahale/blob/main/OIP.jpg)
+![logo](https://github.com/LalitMahale/LalitMahale/blob/main/OPI.jpg)
 <h1 align="center">Hi 👋, I'm Lalit Mahale</h1>
 <h3 align="center">A passionate Artificial Intelligence and I am from India</h3>
 <img align = "right" alt = "coding" width="350" src="https://cdn.dribbble.com/users/279765/screenshots/1906733/selfportrait.gif">
